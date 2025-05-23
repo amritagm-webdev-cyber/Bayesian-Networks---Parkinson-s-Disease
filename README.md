@@ -1,1 +1,1 @@
-# Bayesian-Networks---Parkinson-s-Disease
+# Bayesian-Networks - Parkinson's Disease
